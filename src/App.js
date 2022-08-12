@@ -10,7 +10,7 @@ function App() {
   return (
     <div className="App">
       <h1>Hello Word</h1>
-      <Greet />
+      {/* <Greet /> */}
       <Welcome />
       <Hello />
       <UseReducer />
