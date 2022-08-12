@@ -1,4 +1,5 @@
 import './App.css';
+import Form from './components/Form';
 import Greet from './components/Greet';
 import Hello from './components/Hello';
 import UseReducer from './components/UseReducer';
@@ -13,6 +14,7 @@ function App() {
       <Welcome />
       <Hello />
       <UseReducer />
+      <Form />
     </div>
   );
 }
