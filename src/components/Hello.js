@@ -8,7 +8,7 @@ const Hello = () => {
     // )
 
     // without JSX Example
-    return React.createElement('div', null, React.createElement('h1', null, "Welcome"))
+    return React.createElement('div', null, React.createElement('h1', null, "Bhautik"))
 }
 
 export default Hello;
